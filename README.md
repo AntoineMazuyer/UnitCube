@@ -27,3 +27,5 @@ It will make an executable named unit_cube.
  * nb_hex = the number of hex in one direction (here you will have the unit cube meshed with 5x5x5 hexs). The mesh size will be computed by UnitCube (here 1./5 = 0.2)
  * out:geomodel path to the outputed geomodel
 
+##  Result
+[<img src="images/cube5x5.png">](images/cube5x5.png)
